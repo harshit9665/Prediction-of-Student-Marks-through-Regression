@@ -15,4 +15,4 @@ Steps:
 1. Run the Prediction_of_Student_Marks_based_on_Study_Hours.ipnb file
 2. Run the Streamlit.py in your CMD by this command by going to that path in which your file is saved in this way.
 
-![](localjost.JPG)
+![](localhost.JPG)
